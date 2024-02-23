@@ -1,4 +1,4 @@
-# YOLOV8-based-detection-segmentation-and-trackingObject Detection, tracking and segmentation assignment from perioko
+# YOLOV8-based-detection-segmentation-and-trackingObject Detection, tracking and segmentation.
 
 ## Problem statement:
 * Detection 3 objects, phone, tv and cup from source videos.
